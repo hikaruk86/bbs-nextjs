@@ -1,0 +1,12 @@
+/app
+  /components
+    /thread
+      ThreadList.tsx
+      ThreadItem.tsx
+  /lib
+    prisma.ts
+  /types
+    thread.ts
+  page.tsx
+  layout.tsx
+prisma/schema.prisma 
